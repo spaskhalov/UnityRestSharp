@@ -6,7 +6,7 @@ This is original [RestSharp](https://github.com/restsharp/RestSharp) library por
 ## How to install
 - Open Unity Package Manager (Window/Package Manager).
 - Pres add button and select *add package from git url*.
-- Use next url: 
+- Use repository url (https://github.com/spaskhalov/UnityRestSharp.git). 
 
 ## How to use
 Basic usage example:
